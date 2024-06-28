@@ -25,3 +25,5 @@ jobs:
       run: npm install
     - name: Execute unit tests
       run: npm run test:unit
+    - name: Disy Softuni username:
+      run: echo "timpetrovv"
